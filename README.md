@@ -5,8 +5,9 @@
 ---
 ## I am full stack developer and mobile application developer.
 
-- 🔭 After completing my master's in MCA from BHU in 2020. I felt that I have been fallen in love with javascript. dedicated and passionate to write clean and optimized code.
+- 🔭 After completing my master's in MCA from BHU in 2020. I felt that I have been fallen in love with javascript. dedicated and passionate to write clean and optimized code🤣
 - 🌱 Current Position As A Front End Engineer At Pickrr Technologies Delhi.
+- ❤️:heart: Ability To Work Effectively And Efficiently In Team As Well As Individual.
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2021 Goals: be powerful in javascript stack to write optimized and clean code.
 - ⚡ Fun fact: I love to play video game
