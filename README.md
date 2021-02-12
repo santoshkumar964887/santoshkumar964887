@@ -15,6 +15,8 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=santoshkumar964887&langs_count=6&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=santoshkumar964887)](https://github.com/anuraghazra/github-readme-stats)
+
 ### Connect with me:
 
 [<img align="left" alt="santosh96" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](http://www.santosh96.host20.uk/)
