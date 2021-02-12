@@ -11,11 +11,9 @@
 - 🥅 2021 Goals: be powerful in javascript stack to write optimized and clean code.
 - ⚡ Fun fact: I love to play video game
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=santoshkumar964887&show_icons=true&theme=radical)](https://github.com/santoshkumar964887/github-readme-stats)
+##zap: GitHub Stats
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=santoshkumar964887&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-</details>
 ### Connect with me:
 
 [<img align="left" alt="santosh96" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](http://www.santosh96.host20.uk/)
