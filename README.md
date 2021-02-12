@@ -2,7 +2,7 @@
 
 <br>
 
-## I am full stack developer and mobile application developer.
+## I am full stack and mobile application developer.
 
 - 🔭 After completing my master's in MCA from BHU in 2020. I felt that I have been fallen in love with javascript. dedicated and passionate to write clean and optimized code🤣
 - 🌱 Current Position As A Front End Engineer At Pickrr Technologies Delhi.
@@ -11,6 +11,10 @@
 - 🥅 2021 Goals: be powerful in javascript stack to write optimized and clean code.
 - ⚡ Fun fact: I love to play video game
 
+<details>
+  <summary>:zap: GitHub Stats</summary>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?santoshkumar964887=anuraghazra&show_icons=true&theme=radical)
+</details>
 ### Connect with me:
 
 [<img align="left" alt="santosh96" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](http://www.santosh96.host20.uk/)
@@ -20,10 +24,3 @@
 <br />
 
 ---
-
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
-
-</details>
