@@ -1,18 +1,15 @@
 ### Hi there, I'm Santosh Kumar - santosh96 [santosh96](http://www.santosh96.host20.uk/)👋
 
-[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](http://www.santosh96.host20.uk/)
+<br>
+<br>
+---
+## I am full stack developer and mobile application developer.
 
-## I'm a Husband, Father, Developer, and Teacher!!
-
-- 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]!
-- 🌱 I’m currently learning everything 🤣
+- 🔭 After completing my master's in MCA from BHU in 2020. I felt that I have been fallen in love with javascript. dedicated and passionate to write clean and optimized code.
+- 🌱 Current Position As A Front End Engineer At Pickrr Technologies Delhi.
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to draw and play guitar / drums
-
-### Spotify Playing 🎧
-
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
+- 🥅 2021 Goals: be powerful in javascript stack to write optimized and clean code.
+- ⚡ Fun fact: I love to play video game
 
 ### Connect with me:
 
