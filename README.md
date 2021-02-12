@@ -1,4 +1,4 @@
-### Hi there, I'm Santosh Kumar - santosh96 [santosh96][website] 👋
+### Hi there, I'm Santosh Kumar - santosh96 [santosh96](http://www.santosh96.host20.uk/)👋
 
 [![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](http://www.santosh96.host20.uk/)
 
